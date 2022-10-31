@@ -1,0 +1,40 @@
+---
+title: "Ethan Alt"
+image: alt_photo_sq.jpg
+link-external-newwindow: true
+about:
+  template: trestles
+  image: alt_photo_sq.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/drethanalt
+    - icon: linkedin
+      text: GitHub
+      href: https://github.com/ethan-alt
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/ethanalt
+---
+
+## About me
+
+Dr. Ethan Alt is an Assistant Professor in the Department of Biostatistics at the University of North Carolina at Chapel Hill. His research interests include the development of Bayesian methods for clinical trials, informative prior elicitation, and Bayesian nonparametrics.
+
+Dr. Alt received a PhD in Biostatistics from the University of North Carolina at Chapel Hill in 2021. His dissertation was supervised by Drs. Matthew Psioda and Joseph Ibrahim.
+
+## Education
+
+**University of North Carolina** \| Chapel Hill, NC
+
+PhD, Biostatistics \| Aug 2017 - Sep 2021
+
+**University of Florida** \| Gainesville, FL
+
+MS, Statistics \| Aug 2015 - May 2017
+
+## Experience
+
+**University of North Carolina** \| Research Assistant Professor \| Oct 2022 - present
+
+**Harvard Medical School** \| Instructor of Medicine \| Oct 2021 - Oct 2022

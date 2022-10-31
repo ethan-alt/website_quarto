@@ -1,0 +1,18 @@
+---
+title: "Dr. Ethan Alt's Personal Website"
+link-external-newwindow: true
+---
+
+### Welcome!
+
+Welcome to my personal website! Currently, I am an Assistant Professor in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the University of North Carolina at Chapel Hill.
+
+Previously, I was Instructor of Medicine in the [Divisision of Pharmacoepidemiology and Pharmacoeconomics](https://www.drugepi.org) at Harvard Medical School.
+
+### Departmental Profile
+
+My departmental profile is available [here](https://sph.unc.edu/adv_profile/ethan-alt-phd/), but this website will contain the most up-to-date information.
+
+### About this website
+
+On this website, you can find my CV, software, and presentations. I may eventually add a blog.

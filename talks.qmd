@@ -1,0 +1,19 @@
+---
+title: "Talks and Presentations"
+link-external-icon: true
+link-external-newwindow: true
+---
+
+Below is a list of the talks I have given, along with links to the corresponding presentation. All talks were presented by myself unless otherwise noted.
+
+## Invited Presentations
+
+1.  [A hierarchical prior for generalized linear models based on predictions for the mean response](https://www.overleaf.com/read/jxrtbgwdfgtg) \| JSM 2022 (*Presented by Dr. Matthew Psioda*)
+2.  [*Normalized Power Priors in Stan*](https://www.overleaf.com/read/ttxpxvbckgcb)\| Stan-Dev 2022
+3.  [Multivariate probability of success for rare diseases](https://www.overleaf.com/read/vdhtymngrtjm) \| ASA Biopharmaceutical Section 2020
+
+## Contributed Presentations
+
+1.  [Design and analysis of clinical trials with mixed outcome types](https://www.overleaf.com/read/srytnjghxbtp) \| ENAR 2022
+2.  [Bayesian multivariate probability of success with type 1 error control](https://www.overleaf.com/read/swttngsgdsvc) \| JSM 2021
+3.  [Bayesian probability of success for multivariate normal endpoints using historical data](https://www.overleaf.com/read/vmnvmdbsphyd) \| ENAR 2021

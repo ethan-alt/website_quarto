@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Ethan Alt’s Personal Website",
+    "section": "",
+    "text": "Departmental Profile\nMy departmental profile is available here, but this website will contain the most up-to-date information.\n\n\nAbout this website\nOn this website, you can find my CV, software, and presentations. I may eventually add a blog."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Ethan Alt",
+    "section": "",
+    "text": "Dr. Ethan Alt is an Assistant Professor in the Department of Biostatistics at the University of North Carolina at Chapel Hill. His research interests include the development of Bayesian methods for clinical trials, informative prior elicitation, and Bayesian nonparametrics.\nDr. Alt received a PhD in Biostatistics from the University of North Carolina at Chapel Hill in 2021. His dissertation was supervised by Drs. Matthew Psioda and Joseph Ibrahim."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Ethan Alt",
+    "section": "Experience",
+    "text": "Experience\nUniversity of North Carolina | Research Assistant Professor | Oct 2022 - present\nHarvard Medical School | Instructor of Medicine | Oct 2021 - Oct 2022"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Ethan Alt",
+    "section": "Education",
+    "text": "Education\nUniversity of North Carolina | Chapel Hill, NC\nPhD, Biostatistics | Aug 2017 - Sep 2021\nUniversity of Florida | Gainesville, FL\nMS, Statistics | Aug 2015 - May 2017"
+  },
+  {
+    "objectID": "about.html#experience-1",
+    "href": "about.html#experience-1",
+    "title": "Ethan Alt",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "about.html#education-1",
+    "href": "about.html#education-1",
+    "title": "Ethan Alt",
+    "section": "Education",
+    "text": "Education\nUniversity of North Carolina | Chapel Hill, NC PhD in Biostatistics | Aug 2017 - Sep 2021\nUniversity of Florida | Gainesville, FL MS Statistics | Aug 2015 - May 2017\nLoyola University Chicago | Chicago, IL BA Economics | Aug 2009 - May 2013"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks and Presentations",
+    "section": "",
+    "text": "Below is a list of the talks I have given, along with links to the corresponding presentation. All talks were presented by myself unless otherwise noted."
+  },
+  {
+    "objectID": "talks.html#invited-presentations",
+    "href": "talks.html#invited-presentations",
+    "title": "Talks and Presentations",
+    "section": "Invited Presentations",
+    "text": "Invited Presentations\n\nA hierarchical prior for generalized linear models based on predictions for the mean response | JSM 2022 (Presented by Dr. Matthew Psioda)\nNormalized Power Priors in Stan| Stan-Dev 2022\nMultivariate probability of success for rare diseases | ASA Biopharmaceutical Section 2020"
+  },
+  {
+    "objectID": "talks.html#contributed-presentations",
+    "href": "talks.html#contributed-presentations",
+    "title": "Talks and Presentations",
+    "section": "Contributed Presentations",
+    "text": "Contributed Presentations\n\nDesign and analysis of clinical trials with mixed outcome types | ENAR 2022\nBayesian multivariate probability of success with type 1 error control | JSM 2021\nBayesian probability of success for multivariate normal endpoints using historical data | ENAR 2021"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "hdbayes\nhdbayes is a package that utilizes Stan to conduct informative prior elicitation on the basis of historical data. Current implementations are for generalized linear models (GLMs) and include the power prior, Bayesian hierarchical model, robust meta-analytic prior, and commensurate prior. It is currently only available on GitHub.\n\n\nbmabasket\nbmabasket is an R package designed to assist researchers in designing and analyzing basket trials according to the method of Psioda and others (2019). It is available on CRAN."
+  }
+]

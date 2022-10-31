@@ -1,0 +1,15 @@
+---
+title: "Software"
+link-external-icon: true
+link-external-newwindow: true
+---
+
+Below is a list of software I have developed / am in the process of developing. For more information, check out [my GitHub page](https://github.com/ethan-alt).
+
+#### hdbayes
+
+[hdbayes](https://github.com/ethan-alt/hdbayes) is a package that utilizes Stan to conduct informative prior elicitation on the basis of historical data. Current implementations are for generalized linear models (GLMs) and include the power prior, Bayesian hierarchical model, robust meta-analytic prior, and commensurate prior. It is currently only available on GitHub.
+
+#### bmabasket
+
+[bmabasket](https://cran.r-project.org/web/packages/bmabasket/index.html) is an R package designed to assist researchers in designing and analyzing basket trials according to the method of [Psioda and others (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7846150/). It is available on CRAN.
