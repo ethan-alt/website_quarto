@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 1a2764e6-a3d7-42bc-be82-442e03e2e135
+      url: 'https://merry-pastelito-40e7d7.netlify.app'

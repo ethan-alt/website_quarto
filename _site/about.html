@@ -157,8 +157,11 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
+<section id="about-me" class="level2">
+<h2 data-anchor-id="about-me">About me</h2>
 <p>Dr.&nbsp;Ethan Alt is an Assistant Professor in the Department of Biostatistics at the University of North Carolina at Chapel Hill. His research interests include the development of Bayesian methods for clinical trials, informative prior elicitation, and Bayesian nonparametrics.</p>
 <p>Dr.&nbsp;Alt received a PhD in Biostatistics from the University of North Carolina at Chapel Hill in 2021. His dissertation was supervised by Drs. Matthew Psioda and Joseph Ibrahim.</p>
+</section>
 <section id="education" class="level2">
 <h2 data-anchor-id="education">Education</h2>
 <p><strong>University of North Carolina</strong> | Chapel Hill, NC</p>
@@ -379,7 +382,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     });
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp(/https:\/\/merry-pastelito-40e7d7\.netlify\.app/);
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
