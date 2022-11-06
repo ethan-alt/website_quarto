@@ -10,11 +10,11 @@ about:
       text: Twitter
       href: https://twitter.com/drethanalt
     - icon: linkedin
-      text: GitHub
-      href: https://github.com/ethan-alt
-    - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/ethanalt
+    - icon: github
+      text: GitHub
+      href: https://github.com/ethan-alt
 ---
 
 ## About me

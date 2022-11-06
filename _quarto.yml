@@ -20,6 +20,8 @@ website:
         file: about.qmd
       - text: CV
         href: https://www.overleaf.com/read/pghtrskfypjt
+      - text: Research
+        file: research.qmd
       - text: Talks
         file: talks.qmd
       - text: Software

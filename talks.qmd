@@ -1,6 +1,5 @@
 ---
 title: "Talks and Presentations"
-link-external-icon: true
 link-external-newwindow: true
 ---
 

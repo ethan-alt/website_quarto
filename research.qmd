@@ -1,0 +1,12 @@
+---
+title: "Research"
+link-external-newwindow: true
+---
+
+My research involves the development of Bayesian methods for the design and analysis of clinical trials. In particular, I have an interest in robust informative prior elicitation using historical data and/or expert opinion. I also have interest in Bayesian subgroup identification using shrinkage priors and Bayesian nonparametrics methods.
+
+Below is a list of my published papers (listed chronologically by acceptance date). For works in progress, check out my CV.
+
+1.  **Ethan M. Alt**, Brady Nifong, Xinxin Chen, Matthew A. Psioda, and Joseph G. Ibrahim. The scale transformed power prior for use with historical data from a different outcome model. *Statistics in Medicine* (in press). <https://doi.org/10.1002/sim.9598>.
+2.  **Ethan M. Alt**, Matthew A. Psioda, and Joseph G. Ibrahim. A hierarchical prior for generalized linear models based on predictions for the mean response. *Biostatistics* (in press). <https://doi.org/10.1093/biostatistics/kxac022>
+3.  **Ethan M. Alt**, Matthew A. Psioda, and Joseph G. Ibrahim. Bayesian multivariate probability of success using historical data with type I error rate control. *Biostatistics* (in press). <https://doi.org/10.1093/biostatistics/kxab050>
