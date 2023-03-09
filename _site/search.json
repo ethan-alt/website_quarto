@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Below is a list of my published papers (listed chronologically by acceptance date). For works in progress, check out my CV.\n\nEthan M. Alt, Brady Nifong, Xinxin Chen, Matthew A. Psioda, and Joseph G. Ibrahim. The scale transformed power prior for use with historical data from a different outcome model. Statistics in Medicine (in press). https://doi.org/10.1002/sim.9598.\nEthan M. Alt, Matthew A. Psioda, and Joseph G. Ibrahim. A hierarchical prior for generalized linear models based on predictions for the mean response. Biostatistics (in press). https://doi.org/10.1093/biostatistics/kxac022\nEthan M. Alt, Matthew A. Psioda, and Joseph G. Ibrahim. Bayesian multivariate probability of success using historical data with type I error rate control. Biostatistics (in press). https://doi.org/10.1093/biostatistics/kxab050"
+    "text": "My research involves the development of Bayesian methods for the design and analysis of clinical trials. In particular, I have an interest in robust informative prior elicitation using historical data and/or expert opinion. I also have interest in Bayesian subgroup identification using shrinkage priors and Bayesian nonparametrics methods.\nBelow is a list of my published papers (listed chronologically by acceptance date). For works in progress, check out my CV.\n\nEthan M. Alt, Brady Nifong, Xinxin Chen, Matthew A. Psioda, and Joseph G. Ibrahim. The scale transformed power prior for use with historical data from a different outcome model. Statistics in Medicine (in press). https://doi.org/10.1002/sim.9598.\nEthan M. Alt, Matthew A. Psioda, and Joseph G. Ibrahim. A hierarchical prior for generalized linear models based on predictions for the mean response. Biostatistics (in press). https://doi.org/10.1093/biostatistics/kxac022\nEthan M. Alt, Matthew A. Psioda, and Joseph G. Ibrahim. Bayesian multivariate probability of success using historical data with type I error rate control. Biostatistics (in press). https://doi.org/10.1093/biostatistics/kxab050"
   },
   {
     "objectID": "talks.html",
@@ -18,7 +18,7 @@
     "href": "talks.html#invited-presentations",
     "title": "Talks and Presentations",
     "section": "Invited Presentations",
-    "text": "Invited Presentations\n\nLEAP: The latent exchangeability prior for borrowing information from historical data | ENAR 2023\nA hierarchical prior for generalized linear models based on predictions for the mean response | JSM 2022 (Presented by Dr. Matthew Psioda)\nNormalized Power Priors in Stan| Stan-Dev 2022\nMultivariate probability of success for rare diseases | ASA Biopharmaceutical Section 2020"
+    "text": "Invited Presentations\n\nLEAP: The latent exchangeability prior for control arm augmentation | ENAR 2023\nA hierarchical prior for generalized linear models based on predictions for the mean response | JSM 2022 (Presented by Dr. Matthew Psioda)\nNormalized Power Priors in Stan| Stan-Dev 2022\nMultivariate probability of success for rare diseases | ASA Biopharmaceutical Section 2020"
   },
   {
     "objectID": "talks.html#contributed-presentations",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Dr. Ethan Alt’s Personal Website",
     "section": "",
-    "text": "Departmental Profile\nMy departmental profile is available here, but this website will contain the most up-to-date information.\n\n\nAbout this website\nOn this website, you can find my CV, software, and presentations. I may eventually add a blog."
+    "text": "Welcome!\nWelcome to my personal website! Currently, I am an Assistant Professor in the Department of Biostatistics at the University of North Carolina at Chapel Hill.\nPreviously, I was Instructor of Medicine in the Divisision of Pharmacoepidemiology and Pharmacoeconomics at Harvard Medical School.\n\n\nDepartmental Profile\nMy departmental profile is available here, but this website will contain the most up-to-date information.\n\n\nAbout this website\nOn this website, you can find my CV, software, and presentations. I may eventually add a blog."
   },
   {
     "objectID": "about.html",
@@ -60,6 +60,6 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "hdbayes\nhdbayes is a package that utilizes Stan to conduct informative prior elicitation on the basis of historical data. Current implementations are for generalized linear models (GLMs) and include the power prior, Bayesian hierarchical model, robust meta-analytic prior, and commensurate prior. It is currently only available on GitHub.\n\n\nbmabasket\nbmabasket is an R package designed to assist researchers in designing and analyzing basket trials according to the method of Psioda and others (2019). It is available on CRAN."
+    "text": "Below is a list of software I have developed / am in the process of developing. For more information, check out my GitHub page.\n\nhdbayes\nhdbayes is a package that utilizes Stan to conduct informative prior elicitation on the basis of historical data. Current implementations are for generalized linear models (GLMs) and include the power prior, Bayesian hierarchical model, robust meta-analytic prior, and commensurate prior. It is currently only available on GitHub.\n\n\nbmabasket\nbmabasket is an R package designed to assist researchers in designing and analyzing basket trials according to the method of Psioda and others (2019). It is available on CRAN."
   }
 ]

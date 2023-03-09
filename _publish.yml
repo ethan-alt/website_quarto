@@ -2,3 +2,5 @@
   netlify:
     - id: 1a2764e6-a3d7-42bc-be82-442e03e2e135
       url: 'https://ethanalt.netlify.app'
+  execute:
+    freeze: auto
