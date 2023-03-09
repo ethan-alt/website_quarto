@@ -3,10 +3,29 @@ title: "Research"
 link-external-newwindow: true
 ---
 
-My research involves the development of Bayesian methods for the design and analysis of clinical trials. In particular, I have an interest in robust informative prior elicitation using historical data and/or expert opinion. I also have interest in Bayesian subgroup identification using shrinkage priors and Bayesian nonparametrics methods.
+My research involves the development of Bayesian methods for the design and analysis of clinical trials. In particular, I have an interest in robust informative prior elicitation using historical data and/or expert opinion. I also have interests in subgroup estimation and identification.
 
-Below is a list of my published papers (listed chronologically by acceptance date). For works in progress, check out my CV.
+Below is a list of my published papers (listed chronologically by publication/acceptance date) as well as submitted works in progress.
 
-1.  **Ethan M. Alt**, Brady Nifong, Xinxin Chen, Matthew A. Psioda, and Joseph G. Ibrahim. The scale transformed power prior for use with historical data from a different outcome model. *Statistics in Medicine* (in press). <https://doi.org/10.1002/sim.9598>.
-2.  **Ethan M. Alt**, Matthew A. Psioda, and Joseph G. Ibrahim. A hierarchical prior for generalized linear models based on predictions for the mean response. *Biostatistics* (in press). <https://doi.org/10.1093/biostatistics/kxac022>
-3.  **Ethan M. Alt**, Matthew A. Psioda, and Joseph G. Ibrahim. Bayesian multivariate probability of success using historical data with type I error rate control. *Biostatistics* (in press). <https://doi.org/10.1093/biostatistics/kxab050>
+## Published and Accepted Works
+
+### Statistical Methodology
+
+1.  **Ethan M. Alt**, Brady Nifong, Xinxin Chen, Matthew A. Psioda, and Joseph G. Ibrahim. "The scale transformed power prior for use with historical data from a different outcome model." *Statistics in Medicine* 42, no. 1 (2023): 1-14. <https://doi.org/10.1002/sim.9598>\
+2.  **Ethan M. Alt**, Matthew A. Psioda, and Joseph G. Ibrahim. "A hierarchical prior for generalized linear models based on predictions for the mean response." *Biostatistics* 23, no. 4 (2022): 1165-1181. <https://doi.org/10.1093/biostatistics/kxac022>.\
+3.  **Ethan M. Alt**, Matthew A. Psioda, and Joseph G. Ibrahim. "Bayesian multivariate probability of success using historical data with type I error rate control." *Biostatistics* 24, no. 1 (2023): 17-31. <https://doi.org/10.1093/biostatistics/kxab050>.
+
+### Collaborative Work
+
+1.  Elvira D\'Andrea, Deborah J. Wexler, Seoyoung C. Kim, Julie M. Paik, **Ethan Alt**, and Elisabetta Patorno. "Comparing Effectiveness and Safety of SGLT2 Inhibitors vs DPP-4 Inhibitors in Patients With Type 2 Diabetes and Varying Baseline HbA1c Levels." *JAMA Intern Med.* 183, no. 3 (2023): 242--254 (2023). <https://doi.org/10.1001/jamainternmed.2022.6664>.\
+2.  Phyo T. Hoo, Julie M. Paik, **Ethan Alt**, Dae Hyun Kim, Deborah J. Wexler, Seoyoung C. Kim, and Elisabetta Patorno. "Risk of severe hypoglycemia with newer second-line glucose-lowering medications in older adults with type 2 diabetes stratified by known indicators of hypoglycemia risk." *The Journals of Gerontology: Series A* (In Press). <https://doi.org/10.1093/gerona/glad075>.\
+3.  Allison J. Burbank, Anusha Vadlamudi, Katherine H. Mills, **Ethan M. Alt**, Heather Wells, Haibo Zhou, Neil Alexis, Michelle L. Hernandez, and David B. Peden. "The glutathione-S-transferase mu-1 null genotype increases wood smoke-induced airway inflammation." *Journal of Allergy and Clinical Immunology* 143, no. 6 (2019): 2299-2302. <https://doi.org/10.1016/j.jaci.2019.02.006>.\
+4.  Allison J. Burbank, Michelle L. Hernandez, Katherine H. Mills, Neil Alexis, **Ethan M. Alt**, Haibo Zhou, and David B. Peden. "Characterizing Airway Inflammatory Responses to Wood-Smoke Inhalation." *Journal of Allergy and Clinical Immunology* 143, no. 2 (2019): <https://doi.org/10.1016/j.jaci.2018.12.073>.
+
+## Works Under Review or In Revision
+
+### Statistical Methodology
+
+1.  **Ethan M. Alt**, Xiuya Chang, Xun Jiang, Qing Liu, May Mo, H. Amy Xia, and Joseph G. Ibrahim LEAP: "The latent exchangeability prior for borrowing information from historical data." *Journal of the American Statistical Association* (Under review).
+2.  **Ethan M. Alt**, Brady Nifong, Xinxin Chen, Matthew A. Psioda, and Joseph G. Ibrahim. "The scale transformed power prior for time-to-event data." *Lifetime Data Analysis* (In revision).
+3.  Xinxin Chen, Brady Nifong, **Ethan M. Alt**, Matthew A. Psioda, and Joseph G. Ibrahim.
