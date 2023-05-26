@@ -7,10 +7,11 @@ Below is a list of the talks I have given, along with links to the corresponding
 
 ## Invited Presentations
 
-1.  [LEAP: The latent exchangeability prior for control arm augmentation](https://www.overleaf.com/read/gxxnkyhkbyjc) \| ENAR 2023
-2.  [A hierarchical prior for generalized linear models based on predictions for the mean response](https://www.overleaf.com/read/jxrtbgwdfgtg) \| JSM 2022 (*Presented by Dr. Matthew Psioda*)
-3.  [*Normalized Power Priors in Stan*](https://www.overleaf.com/read/ttxpxvbckgcb)\| Stan-Dev 2022
-4.  [Multivariate probability of success for rare diseases](https://www.overleaf.com/read/vdhtymngrtjm) \| ASA Biopharmaceutical Section 2020
+1.  [LEAP: The latent exchangeability prior for control arm augmentation](https://www.overleaf.com/read/gxxnkyhkbyjc) \| IISA 2023
+2.  [LEAP: The latent exchangeability prior for control arm augmentation](https://www.overleaf.com/read/gxxnkyhkbyjc) \| ENAR 2023
+3.  [A hierarchical prior for generalized linear models based on predictions for the mean response](https://www.overleaf.com/read/jxrtbgwdfgtg) \| JSM 2022 (*Presented by Dr. Matthew Psioda*)
+4.  [*Normalized Power Priors in Stan*](https://www.overleaf.com/read/ttxpxvbckgcb)\| Stan-Dev 2022
+5.  [Multivariate probability of success for rare diseases](https://www.overleaf.com/read/vdhtymngrtjm) \| ASA Biopharmaceutical Section 2020
 
 ## Contributed Presentations
 
