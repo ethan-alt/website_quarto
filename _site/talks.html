@@ -159,18 +159,21 @@ ul.task-list li input[type="checkbox"] {
 <section id="invited-presentations" class="level2">
 <h2 class="anchored" data-anchor-id="invited-presentations">Invited Presentations</h2>
 <ol type="1">
-<li><a href="https://www.overleaf.com/read/gxxnkyhkbyjc">LEAP: The latent exchangeability prior for control arm augmentation</a> | ENAR 2023</li>
-<li><a href="https://www.overleaf.com/read/jxrtbgwdfgtg">A hierarchical prior for generalized linear models based on predictions for the mean response</a> | JSM 2022 (<em>Presented by Dr.&nbsp;Matthew Psioda</em>)</li>
-<li><a href="https://www.overleaf.com/read/ttxpxvbckgcb"><em>Normalized Power Priors in Stan</em></a>| Stan-Dev 2022</li>
-<li><a href="https://www.overleaf.com/read/vdhtymngrtjm">Multivariate probability of success for rare diseases</a> | ASA Biopharmaceutical Section 2020</li>
+<li><a href="https://www.overleaf.com/read/kcqrrfszrryc">LEAP: The latent exchangeability prior for the incorporation of historical data</a> | BayesPharma 2023 | Utrecht, Netherlands</li>
+<li>LEAP: The latent exchangeability prior for control arm augmentation | JSM 2023 | Toronto, Canada</li>
+<li><a href="https://www.overleaf.com/read/gxxnkyhkbyjc">LEA</a><a href="https://www.overleaf.com/read/cdppmptwtrrd">P: The latent exchangeability prior for control arm augmentation</a> | IISA 2023 | Golden, Colorado</li>
+<li><a href="https://www.overleaf.com/read/gxxnkyhkbyjc">LEAP: The latent exchangeability prior for control arm augmentation</a> | ENAR 2023 | Nashville, Tennessee</li>
+<li><a href="https://www.overleaf.com/read/jxrtbgwdfgtg">A hierarchical prior for generalized linear models based on predictions for the mean response</a> | JSM 2022 (<em>Presented by Dr.&nbsp;Matthew Psioda</em>) | Washington, DC</li>
+<li><a href="https://www.overleaf.com/read/ttxpxvbckgcb"><em>Normalized Power Priors in Stan</em></a>| Stan-Dev 2022 | Online</li>
+<li><a href="https://www.overleaf.com/read/vdhtymngrtjm">Multivariate probability of success for rare diseases</a> | ASA Biopharmaceutical Section Regulatory Industry Statistics Workshop | Online</li>
 </ol>
 </section>
 <section id="contributed-presentations" class="level2">
 <h2 class="anchored" data-anchor-id="contributed-presentations">Contributed Presentations</h2>
 <ol type="1">
-<li><a href="https://www.overleaf.com/read/srytnjghxbtp">Design and analysis of clinical trials with mixed outcome types</a> | ENAR 2022</li>
-<li><a href="https://www.overleaf.com/read/swttngsgdsvc">Bayesian multivariate probability of success with type 1 error control</a> | JSM 2021</li>
-<li><a href="https://www.overleaf.com/read/vmnvmdbsphyd">Bayesian probability of success for multivariate normal endpoints using historical data</a> | ENAR 2021</li>
+<li><a href="https://www.overleaf.com/read/srytnjghxbtp">Design and analysis of clinical trials with mixed outcome types</a> | ENAR 2022 | Houston, Texas</li>
+<li><a href="https://www.overleaf.com/read/swttngsgdsvc">Bayesian multivariate probability of success with type 1 error control</a> | JSM 2021 | Online</li>
+<li><a href="https://www.overleaf.com/read/vmnvmdbsphyd">Bayesian probability of success for multivariate normal endpoints using historical data</a> | ENAR 2021 | Online</li>
 </ol>
 
 
@@ -424,7 +427,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp(/https:\/\/ethanalt\.netlify\.app/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }

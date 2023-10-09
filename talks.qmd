@@ -7,14 +7,16 @@ Below is a list of the talks I have given, along with links to the corresponding
 
 ## Invited Presentations
 
-1.  [LEAP: The latent exchangeability prior for control arm augmentation](https://www.overleaf.com/read/gxxnkyhkbyjc) \| IISA 2023
-2.  [LEAP: The latent exchangeability prior for control arm augmentation](https://www.overleaf.com/read/gxxnkyhkbyjc) \| ENAR 2023
-3.  [A hierarchical prior for generalized linear models based on predictions for the mean response](https://www.overleaf.com/read/jxrtbgwdfgtg) \| JSM 2022 (*Presented by Dr. Matthew Psioda*)
-4.  [*Normalized Power Priors in Stan*](https://www.overleaf.com/read/ttxpxvbckgcb)\| Stan-Dev 2022
-5.  [Multivariate probability of success for rare diseases](https://www.overleaf.com/read/vdhtymngrtjm) \| ASA Biopharmaceutical Section 2020
+1.  [LEAP: The latent exchangeability prior for the incorporation of historical data](https://www.overleaf.com/read/kcqrrfszrryc) \| BayesPharma 2023 \| Utrecht, Netherlands
+2.  LEAP: The latent exchangeability prior for control arm augmentation \| JSM 2023 \| Toronto, Canada
+3.  [LEA](https://www.overleaf.com/read/gxxnkyhkbyjc)[P: The latent exchangeability prior for control arm augmentation](https://www.overleaf.com/read/cdppmptwtrrd) \| IISA 2023 \| Golden, Colorado
+4.  [LEAP: The latent exchangeability prior for control arm augmentation](https://www.overleaf.com/read/gxxnkyhkbyjc) \| ENAR 2023 \| Nashville, Tennessee
+5.  [A hierarchical prior for generalized linear models based on predictions for the mean response](https://www.overleaf.com/read/jxrtbgwdfgtg) \| JSM 2022 (*Presented by Dr. Matthew Psioda*) \| Washington, DC
+6.  [*Normalized Power Priors in Stan*](https://www.overleaf.com/read/ttxpxvbckgcb)\| Stan-Dev 2022 \| Online
+7.  [Multivariate probability of success for rare diseases](https://www.overleaf.com/read/vdhtymngrtjm) \| ASA Biopharmaceutical Section Regulatory Industry Statistics Workshop \| Online
 
 ## Contributed Presentations
 
-1.  [Design and analysis of clinical trials with mixed outcome types](https://www.overleaf.com/read/srytnjghxbtp) \| ENAR 2022
-2.  [Bayesian multivariate probability of success with type 1 error control](https://www.overleaf.com/read/swttngsgdsvc) \| JSM 2021
-3.  [Bayesian probability of success for multivariate normal endpoints using historical data](https://www.overleaf.com/read/vmnvmdbsphyd) \| ENAR 2021
+1.  [Design and analysis of clinical trials with mixed outcome types](https://www.overleaf.com/read/srytnjghxbtp) \| ENAR 2022 \| Houston, Texas
+2.  [Bayesian multivariate probability of success with type 1 error control](https://www.overleaf.com/read/swttngsgdsvc) \| JSM 2021 \| Online
+3.  [Bayesian probability of success for multivariate normal endpoints using historical data](https://www.overleaf.com/read/vmnvmdbsphyd) \| ENAR 2021 \| Online
